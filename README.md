@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bhumika%20Patel&fontSize=90")
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320A121&lines=BHUMIKA+PATEL+iOS)
-### Hey <img src="https://github.com/bhumika-patel-ios-developer/BHUMIKA-PATEL-iOS-Developer/blob/main/Assets/Hi.gif" width="30">, I'm [BHUMIKA](https://www.bhumika-patel-ios-developer.com/) 
+### Hey <img src="https://github.com/bhumika-patel-ios/BHUMIKA-PATEL-iOS/blob/main/Assets/Hi.gif" width="30">, I'm [BHUMIKA](https://www.bhumika-patel-ios.com/) 
 
 ### learning and Practice 😇
 
